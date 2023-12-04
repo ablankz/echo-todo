@@ -7,6 +7,17 @@
 cp .env.example .env
 ```
 
+### マイグレート実行
+``` bash
+GO_ENV=dev go run migrate/migrate.go
+```
+
+## データベース
+### マイグレート実行
+``` bash
+GO_ENV=dev go run migrate/migrate.go
+```
+
 <h2 id="architecture">Architecture of REST API (Go/Echo) application</h2>
 
 <img src="./architecture.png" width="700px"/>
