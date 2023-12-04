@@ -1,5 +1,9 @@
 # echo-todo
 
+<h2 id="architecture">Architecture of REST API (Go/Echo) application</h2>
+
+<img src="./architecture.png" width="700px"/>
+
 ## VSCode拡張機能
 - [Go](https://marketplace.visualstudio.com/items?itemName=golang.Go)
   - 拡張機能「Go」を入れるだけで、汎用的で優れたGo言語のサポート機能を使うことができます。
