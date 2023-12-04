@@ -4,6 +4,7 @@ go 1.21.4
 
 require (
 	github.com/go-ozzo/ozzo-validation/v4 v4.3.0
+	github.com/golang-jwt/jwt/v4 v4.5.0
 	github.com/joho/godotenv v1.5.1
 	golang.org/x/crypto v0.14.0
 	gorm.io/driver/postgres v1.5.4
